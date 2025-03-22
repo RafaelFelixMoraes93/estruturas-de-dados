@@ -1,8 +1,10 @@
 package com.estruturas;
+
 /**
  * Classe para demonstrar o uso de Arrays.
  */
 public class MeuArray {
+    
     /**
      * Exemplo de Array de inteiros.
      */
