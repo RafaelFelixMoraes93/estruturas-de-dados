@@ -7,6 +7,7 @@ import java.util.Set;
  * Classe para demonstrar o uso de Conjutos (Set).
  */
 public class MeuConjunto {
+    
     /**
      * Exemplo de um conjunto de inteiros.
      */
@@ -20,6 +21,7 @@ public class MeuConjunto {
 
         for (int numero : conjunto) {
             System.out.println(numero);
+            
         }
     }
 }
